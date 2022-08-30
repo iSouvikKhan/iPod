@@ -1,3 +1,7 @@
+
+
+<p align="center"> <img src="https://github.com/souvik97381/iPod/blob/master/image.png"  height="900" width="700" /> </p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
